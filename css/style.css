@@ -94,7 +94,7 @@ header {
     transform: translateY(-3px);
 }
 
-.hero-img img{
+.hero-img {
     width: 320px;
     height: 320px;
     object-fit: cover;
